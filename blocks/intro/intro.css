@@ -1,0 +1,26 @@
+  
+.intro {
+  background-color: #2A2C2F;
+  max-width: 984px;
+  margin: 0 auto;
+  padding-bottom: 92px;
+  padding-top: 94px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .intro {
+    padding: 92px 48px 92px 48px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1023px) and {
+  .intro {
+    padding: 92px 48px 92px 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    padding: 88px 24px 88px 24px;
+  }
+}
