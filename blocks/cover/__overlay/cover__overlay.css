@@ -10,7 +10,6 @@
   position: relative;
   flex-direction: column;
   justify-content: center;
-  margin: 0 48px;
 }
 
 .cover__overlay:before {
@@ -31,7 +30,6 @@
   .cover__overlay {
     min-width: 1024px;
     min-height: 640px;
-    margin: 0;
   }
 }
 
@@ -39,7 +37,6 @@
   .cover__overlay {
     min-width: 768px;
     min-height: 480px;
-    margin: 0;
   }
 }
 
@@ -48,7 +45,6 @@
   .cover__overlay {
     min-width: 425px;
     min-height: 265px;
-    margin: 0;
   }
 }
 
@@ -56,7 +52,6 @@
   .cover__overlay {
     min-width: 375px;
     min-height: 234px;
-    margin: 0;
   }
 }
 
@@ -64,6 +59,5 @@
   .cover__overlay {
     min-width: 320px;
     min-height: 200px;
-    margin: 0;
   }
 }
