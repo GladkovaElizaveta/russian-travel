@@ -1,8 +1,7 @@
-
 .lead {
   margin: 0 auto;
   max-width: 984px;
-  color: #FFFFFF
+  color: #FFFFFF;
 }
 
 @media screen and (max-width: 1024px) {
