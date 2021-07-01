@@ -19,5 +19,5 @@
 
 Макет [Ссылка на макет](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 <br />
-Проект [Ссылка на проект](https://GladkovaElizaveta/github.io/russian-travel/)
+Проект [Ссылка на проект](https://gladkovaelizaveta.github.io/russian-travel/)
 
