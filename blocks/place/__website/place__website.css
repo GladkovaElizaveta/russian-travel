@@ -7,6 +7,14 @@
 
 @media screen and (max-width: 767px) {
   .place__website {
-    margin: 32px 16px;
+    margin: 0 16px 32px 16px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    grid-column: 1;
+    grid-row: 2;
+    margin: 0 16px 32px 16px;
   }
 }

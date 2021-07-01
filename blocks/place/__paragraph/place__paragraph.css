@@ -22,6 +22,9 @@
   .place__paragraph {
     grid-column: 1;
     max-width: 82%;
-    margin: 0 16px 25px 16px;
+    margin: 32px 16px 0 16px;
+  }
+  .place__paragraph:last-child {
+    margin: 25px 16px 0 16px;
   }
 }
