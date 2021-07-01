@@ -1,6 +1,8 @@
 .place__image {
-  object-fit: contain;
+  grid-column: 1;
+  grid-row: 2/8;
   max-width: 460px;
+  max-height: 460px;
 }
 
 @media screen and (max-width: 1200px) {
@@ -29,6 +31,13 @@
 @media screen and (max-width: 351px) {
   .place__image {
     min-width: 320px;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__image {
+    max-width: 320px;
     margin: 0;
   }
 }
