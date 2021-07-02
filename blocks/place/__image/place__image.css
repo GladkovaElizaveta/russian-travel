@@ -3,7 +3,6 @@
   grid-row: 2/8;
   max-width: 460px;
   max-height: 460px;
-  overflow: hidden;
 }
 
 @media screen and (max-width: 1200px) {
